@@ -217,7 +217,7 @@
 
                 <div class="col-lg-3 footer-info">
                     <h3>Employee Management System</h3>
-                    <p>This Is A Website to manage Employees database of a Company. This Website is developed by Studens Of National Institute Of Technology Jamshedpur(NITian's).</p>
+                    <p>This Is A Website to manage Employees database of a Company</p>
                 </div>
                 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
                 <div class="col-lg-3 footer-links">
